@@ -1,0 +1,10 @@
+@import 'bootstrap/scss/bootstrap.scss';
+
+:root {
+  font-family: "Arsenal SC", Raleway, Montserrat, "Open Sans", sans-serif;
+  color: #c5cacd;
+}
+
+.reality {
+  height: 30rem;
+}
